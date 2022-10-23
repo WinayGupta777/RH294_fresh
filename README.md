@@ -14,3 +14,4 @@
 > ### :diamonds: Managing Variables
 > ### :diamonds: Managing Secrets
 > ### :diamonds: Managing Facts
+> ### :trophy: Managing Variables and Facts
