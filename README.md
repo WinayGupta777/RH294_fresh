@@ -21,3 +21,6 @@
 > ### :diamonds: Implementing Handlers
 > ### :diamonds: Handling Task Failure
 > ### :trophy: Implementing Task Control
+
+## :file_folder: Deploying Files to Managed Hosts
+> ### :diamonds: Modifying and Copying Files to Hosts
