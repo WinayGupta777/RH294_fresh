@@ -38,3 +38,6 @@
 > ### :diamonds: Deploying Roles with Ansible Galaxy
 > ### :diamonds: Getting Roles and Modules from Content Collections
 > ### :trophy: Simplifying Playbooks with Roles
+
+## :file_folder: Troubleshooting Ansible
+> ### :diamonds: Troubleshooting Playbooks
