@@ -20,3 +20,4 @@
 > ### :diamonds: Writing Loops and Conditional Tasks
 > ### :diamonds: Implementing Handlers
 > ### :diamonds: Handling Task Failure
+> ### :trophy: Implementing Task Control
