@@ -46,3 +46,4 @@
 
 ## :file_folder: Automating Linux Administration Tasks
 > ### :diamonds: Managing Software and Subscriptions
+> ### :diamonds: Managing Users and Authentication
