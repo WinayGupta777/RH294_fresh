@@ -48,3 +48,4 @@
 > ### :diamonds: Managing Software and Subscriptions
 > ### :diamonds: Managing Users and Authentication
 > ### :diamonds: Managing the Boot Process and Scheduled Processes
+> ### :diamonds: Managing Storage
