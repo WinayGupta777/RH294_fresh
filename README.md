@@ -6,3 +6,4 @@
 > ### :diamonds: Building an Ansible Inventory
 > ### :diamonds: Managing Ansible Configuration Files
 > ### :diamonds: Running Ad Hoc Commands
+> ### :diamonds: Writing and Running Playbooks
