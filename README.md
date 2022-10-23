@@ -26,3 +26,6 @@
 > ### :diamonds: Modifying and Copying Files to Hosts
 > ### :diamonds: Deploying Custom Files with Jinja2 Templates
 > ### :trophy: Deploying Files to Managed Hosts
+
+## :file_folder: Managing Complex Plays and Playbooks
+> ### :diamonds: Selecting Hosts with Host Patterns
