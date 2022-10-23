@@ -31,3 +31,6 @@
 > ### :diamonds: Selecting Hosts with Host Patterns
 > ### :diamonds: Including and Importing Files
 > ### :trophy: Managing Complex Plays and Playbooks
+
+## :file_folder: Simplifying Playbooks with Roles
+> ### :diamonds: Reusing Content with System Roles
