@@ -56,3 +56,5 @@
 > ### :trophy: Deploying Ansible
 > ### :trophy: Creating Playbooks
 > ### :trophy: Creating Roles
+
+# :gem: :gem: :gem: Thank You RedHat!! :gem: :gem: :gem:
