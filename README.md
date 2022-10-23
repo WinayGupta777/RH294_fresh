@@ -19,3 +19,4 @@
 ## :file_folder: Implementing Task Control
 > ### :diamonds: Writing Loops and Conditional Tasks
 > ### :diamonds: Implementing Handlers
+> ### :diamonds: Handling Task Failure
