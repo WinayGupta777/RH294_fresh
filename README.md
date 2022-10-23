@@ -15,3 +15,6 @@
 > ### :diamonds: Managing Secrets
 > ### :diamonds: Managing Facts
 > ### :trophy: Managing Variables and Facts
+
+## :file_folder: Implementing Task Control
+> ### :diamonds: Writing Loops and Conditional Tasks
