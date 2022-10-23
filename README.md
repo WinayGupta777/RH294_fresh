@@ -24,3 +24,4 @@
 
 ## :file_folder: Deploying Files to Managed Hosts
 > ### :diamonds: Modifying and Copying Files to Hosts
+> ### :diamonds: Deploying Custom Files with Jinja2 Templates
