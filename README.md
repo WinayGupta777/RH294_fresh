@@ -50,3 +50,4 @@
 > ### :diamonds: Managing the Boot Process and Scheduled Processes
 > ### :diamonds: Managing Storage
 > ### :diamonds: Managing Network Configuration
+> ### :trophy: Automating Linux Administration Tasks
