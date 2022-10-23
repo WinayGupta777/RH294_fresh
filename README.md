@@ -43,3 +43,6 @@
 > ### :diamonds: Troubleshooting Playbooks
 > ### :diamonds: Troubleshooting Ansible Managed Hosts
 > ### :trophy: Troubleshooting Ansible
+
+## :file_folder: Automating Linux Administration Tasks
+> ### :diamonds: Managing Software and Subscriptions
