@@ -35,3 +35,4 @@
 ## :file_folder: Simplifying Playbooks with Roles
 > ### :diamonds: Reusing Content with System Roles
 > ### :diamonds: Creating Roles
+> ### :diamonds: Deploying Roles with Ansible Galaxy
