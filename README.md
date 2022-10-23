@@ -9,3 +9,6 @@
 > ### :diamonds: Writing and Running Playbooks
 > ### :diamonds: Implementing Multiple Plays
 > ### :trophy: Implementing Playbooks
+
+## :file_folder: Managing Variables and Facts
+> ### :diamonds: Managing Variables
