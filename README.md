@@ -37,3 +37,4 @@
 > ### :diamonds: Creating Roles
 > ### :diamonds: Deploying Roles with Ansible Galaxy
 > ### :diamonds: Getting Roles and Modules from Content Collections
+> ### :trophy: Simplifying Playbooks with Roles
