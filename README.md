@@ -49,3 +49,4 @@
 > ### :diamonds: Managing Users and Authentication
 > ### :diamonds: Managing the Boot Process and Scheduled Processes
 > ### :diamonds: Managing Storage
+> ### :diamonds: Managing Network Configuration
