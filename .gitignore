@@ -1,0 +1,16 @@
+.ansible/
+.git-credentials
+.ICEauthority
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.config/
+.esd_auth
+.local/
+.ssh/
+.vim*
+.lesshst
+.gitconfig
+.mozilla/
+.bash_history
