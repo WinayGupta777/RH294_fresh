@@ -12,3 +12,4 @@
 
 ## :file_folder: Managing Variables and Facts
 > ### :diamonds: Managing Variables
+> ### :diamonds: Managing Secrets
