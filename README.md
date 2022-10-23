@@ -51,3 +51,6 @@
 > ### :diamonds: Managing Storage
 > ### :diamonds: Managing Network Configuration
 > ### :trophy: Automating Linux Administration Tasks
+
+## :file_folder: Comprehensive Review: Linux Automation with Ansible
+> ### :trophy: Deploying Ansible
